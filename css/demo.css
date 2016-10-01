@@ -1,0 +1,19 @@
+.main{
+	width: 980px;
+	height: 600px;
+	border: 1px solid #ccc;
+	margin: 0 auto;
+}
+.left{
+	width: 400px;
+	height: auto;
+	float: left;
+	padding: 20px;
+
+}
+.right{
+	width: 500px;
+	height: auto;
+	float: left;
+	padding: 20px;
+}
