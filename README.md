@@ -1,5 +1,5 @@
 # webpack-hot-reload
-webpack-hot-reload
+webpack-hot-reload<br>
 use the follow command line:
 $git clone https://github.com/wellenzhong/webpack-hot-reload.git
 to clone this repository to your local disk.
